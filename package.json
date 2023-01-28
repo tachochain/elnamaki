@@ -1,0 +1,19 @@
+{
+  "name": "elnamaki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tachochain/elnamaki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tachochain/elnamaki/issues"
+  },
+  "homepage": "https://github.com/tachochain/elnamaki#readme"
+}
